@@ -15,7 +15,7 @@ Hunger Captian, with a frontend built in React & Redux and a backend built in Dj
 
 ## How to Install
 
-1. Git Clone 
+1. Git Clone https://github.com/Ultraspartanpv/Hunger-Capitan-.git
 ```
 git clone 
 ```
